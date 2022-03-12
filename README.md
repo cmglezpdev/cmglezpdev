@@ -15,9 +15,9 @@
 
 <hr>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cmglezpdev&count_private=true&show_icons=true&hidden_border=true&theme=radical" alt="cmglezpdev" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cmglezpdev&count_private=true&show_icons=true&theme=radical" alt="cmglezpdev" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmglezpdev&langs_count=10&layout=compact&hide_border=true&theme=radical" alt="cmglezpdev" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmglezpdev&langs_count=10&layout=compact&theme=radical" alt="cmglezpdev" /> </p>
 
 <hr>
 
