@@ -6,7 +6,7 @@
 - 🏫 I study at the Faculty of Mathematics and Computing of the University of Havana, Cuba.
 - 😄 I'm interested in the world of software development and machine learning.
 
-    <h3 align="center">My Social Networks:</h3>
+<p align="center"><b>Social Networks</b></p>
 
 <p align="center">
     <a href="https://t.me/cmglezpdev" target="blank"><img align="center" src="asets/../assets/telegram.svg" alt="cmglezpdev" height="48" width="48" /></a>
@@ -15,13 +15,21 @@
 
 <hr>
 
+<p align="center"><b>GitHub Statistics</b></p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cmglezpdev&count_private=true&show_icons=true&theme=radical" alt="cmglezpdev" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmglezpdev&langs_count=10&layout=compact&theme=radical" alt="cmglezpdev" /> </p>
 
 <hr>
 
-<h3 align="center">Pinned</h3>
+<p align="center"><b>GitHub Trophies</b></p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cmglezp&column=3&hide_border=true&theme=radical" alt="cmglezpdev" /></p>
+
+<hr>
+
+<p align="center"><b>Pinned</b></p>
 
 <p align="center">
 <a href="https://github.com/cmglezpdev/Moogle">
