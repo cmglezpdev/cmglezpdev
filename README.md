@@ -1,4 +1,4 @@
-### Hi 👋. My name is Carlos Manuel González Peña 👨🏻‍💻 and I'm from Cuba 🇨🇺
+<h1> Hi 👋. My name is Carlos Manuel González Peña 👨🏻‍💻 and I'm from Cuba 🇨🇺 </h1>
 
 
 - 👨🏻‍💻 I’m currently a first year Computer Science student.
