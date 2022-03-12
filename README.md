@@ -9,7 +9,7 @@
     <h3 align="center">My Social Networks:</h3>
 
 <p align="center">
-    <a href="https://te.me/cmglezpdev" target="blank"><img align="center" src="asets/../assets/telegram.svg" alt="cmglezpdev" height="48" width="48" /></a>
+    <a href="https://t.me/cmglezpdev" target="blank"><img align="center" src="asets/../assets/telegram.svg" alt="cmglezpdev" height="48" width="48" /></a>
     <a href="https://twitter.com/cmglezp" target="blank"><img align="center" src="asets/../assets/twitter.svg" alt="cmglezpdev" height="48" width="48" /></a>
 </p>
 
