@@ -15,13 +15,15 @@
 
 <hr>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cmglezpdev&count_private=true&show_icons=true&theme=radical" alt="cmglezpdev" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cmglezpdev&count_private=true&show_icons=true&hidden_border=true&theme=radical" alt="cmglezpdev" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmglezpdev&langs_count=10&layout=compact&hide_border=true" alt="cmglezpdev" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmglezpdev&langs_count=10&layout=compact&hide_border=true&theme=radical" alt="cmglezpdev" /> </p>
 
 <hr>
 
 <h3 align="center">Pinned</h3>
+
+<p align="center">
 <a href="https://github.com/cmglezpdev/Moogle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmglezpdev&repo=Moogle&show_owner=true"  alt="cmglezpdev"/>
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmglezpdev&repo=Moogle&show_owner=true&theme=radical"  alt="cmglezpdev"/></a>
+</p>
