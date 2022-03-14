@@ -42,10 +42,3 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cmglezp&column=3&hide_border=true&theme=radical" alt="cmglezpdev" /></p>
 
 <hr>
-
-<p align="center"><b>Pinned</b></p>
-
-<p align="center">
-<a href="https://github.com/cmglezpdev/Moogle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmglezpdev&repo=Moogle&show_owner=true&theme=radical"  alt="cmglezpdev"/></a>
-</p>
