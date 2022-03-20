@@ -44,7 +44,12 @@
 - Algebra I
 - Mathematical Analysis I
 - Mathematical Logic
-
+- Competitive Programming
+  - Data Structures Algorithms
+  - Graph Algorithms
+  - String Algorithms
+  - Dynamic Programming
+  - Divide and Conquer Algorithms
 
 <p align="center"><b>Social Networks</b></p>
 
