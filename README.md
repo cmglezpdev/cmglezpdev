@@ -8,8 +8,8 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 
 * 🌍  I'm based in Cuba
 * ✉️  You can contact me at [cmglezpdev@gmail.com](mailto:cmglezpdev@gmail.com)
-* 🚀  I'm currently working on [React Course](https://github.com/cmglezpdev/Guide-React-Course)
-* 🚀  I'm currently working on [Node Course](https://github.com/cmglezpdev/Guide-Node-Course)
+* 🚀  I'm currently working on [Musicfy](https://github.com/cmglezpdev/Musicfy)
+* 🚀  I'm currently working on [N-omino](https://github.com/cmglezpdev/N-omino)
 * 🧠  I'm learning React and Nodejs
 * ⚡  I watch many series 😜
 
