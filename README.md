@@ -10,7 +10,6 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 * ✉️  You can contact me at [cmglezpdev@gmail.com](mailto:cmglezpdev@gmail.com)
 * 🚀  I'm currently working on [Musicfy](https://github.com/cmglezpdev/Musicfy)
 * 🚀  I'm currently working on [My Portfolio](https://github.com/cmglezpdev/portfolio)
-* 🧠  I'm learning React and Nodejs
 * ⚡  I watch many series 😜
 
 ### Skills
@@ -44,6 +43,7 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 ### Courses
 
 - Algebra I
+- Algebra II
 - Mathematical Analysis I
 - Mathematical Logic
 - Competitive Programming
