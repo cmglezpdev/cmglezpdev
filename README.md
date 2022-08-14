@@ -8,6 +8,7 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 
 * 🌍  I'm based in Cuba
 * ✉️  You can contact me at [cmglezpdev@gmail.com](mailto:cmglezpdev@gmail.com)
+* 🖥️  See my portfolio at [MyPortfolio](http://cmglezpdev.vercel.app)
 * 🚀  I'm currently working on [Musicfy](https://github.com/cmglezpdev/Musicfy)
 * 🚀  I'm currently working on [My Portfolio](https://github.com/cmglezpdev/portfolio)
 * ⚡  I watch many series 😜
