@@ -1,10 +1,6 @@
-Hi 👋 My name is Carlos Manuel
-==============================
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Carlos+Manuel;Computer+Science+Student&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 
-Computer Science Student
-------------------------
-
-![](https://komarev.com/ghpvc/?username=cmglezpdev)
+<hr />
 
 I started programming in 2016 with C++ in competitive programming. Four years later I started learning frontend and backend web development. I am currently learning Artificial Intelligence and cryptocurrencies.
 
@@ -66,10 +62,16 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 
 <b>My GitHub Stats</b>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cmglezpdev&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <a href="http://www.github.com/cmglezpdev"><img src="https://github-readme-stats.vercel.app/api?username=cmglezpdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cmglezpdev's GitHub stats" /></a>
 
 <a href="http://www.github.com/cmglezpdev"><img src="https://activity-graph.herokuapp.com/graph?username=cmglezpdev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/cmglezpdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmglezpdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cmglezpdev)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
