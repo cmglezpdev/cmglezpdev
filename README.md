@@ -74,4 +74,14 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   11 hrs 37 mins  █████████████████▓░░░░░░░   70.65 %
+C++          2 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+JavaScript   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Python       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+SCSS         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+```
+
 <!--END_SECTION:waka-->
