@@ -2,7 +2,7 @@
 
 <hr />
 
-I started programming in 2016 with C++ in competitive programming. Four years later I started learning frontend and backend web development. I am currently learning Artificial Intelligence and cryptocurrencies.
+I started programming in 2016 with C++ in competitive programming. Four years later I started learning frontend and backend web development.
 
 * 🌍  I'm based in Cuba
 * ✉️  You can contact me at [cmglezpdev@gmail.com](mailto:cmglezpdev@gmail.com)
