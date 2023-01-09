@@ -57,7 +57,7 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 </p>
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cmglezpdev/langs)](https://githubtrends.io)
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cmglezpdev/langs)](https://githubtrends.io) -->
 
 
 <!--START_SECTION:waka-->
