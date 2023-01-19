@@ -63,14 +63,14 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 16 January 2023
+From: 18 December 2022 - To: 17 January 2023
 
-Total Time: 74 hrs 43 mins
+Total Time: 76 hrs 27 mins
 
-TypeScript   55 hrs 16 mins  ██████████████████░░░░░░░   72.43 %
-Python       10 hrs 37 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-JavaScript   3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Other        1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+TypeScript   57 hrs 56 mins  ██████████████████▓░░░░░░   74.22 %
+Python       10 hrs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+JavaScript   2 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Other        1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
