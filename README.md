@@ -63,16 +63,16 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 December 2022 - To: 23 January 2023
+From: 25 December 2022 - To: 24 January 2023
 
-Total Time: 91 hrs 13 mins
+Total Time: 95 hrs 25 mins
 
-TypeScript   71 hrs          ███████████████████▒░░░░░   77.11 %
-Python       10 hrs 2 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-JavaScript   2 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Markdown     1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-C++          1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-JSON         59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+TypeScript   75 hrs 8 mins   ███████████████████▓░░░░░   78.02 %
+Python       10 hrs 2 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+JavaScript   2 hrs 31 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Markdown     1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+C++          1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JSON         1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
