@@ -91,6 +91,7 @@ counting of visitors to this page in this section started from June 12, 2022
 ![](https://count.getloli.com/get/@cmglezpdev.github.readme)
 </br> -->
 
+![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
 
