@@ -39,6 +39,69 @@
 </p>
 
 
+
+
+
+
+
+
+
+
+
+<!--
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/cmglezpdev/count.svg">  
+
+counting of visitors to this page in this section started from May 8, 2022
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
+
+<!-- 
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@cmglezpdev.github.readme)
+</br> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Metrics](/github-metrics.svg)
+
+<!--START_SECTION:waka-->
+
+```text
+From: 31 December 2022 - To: 30 January 2023
+
+Total Time: 70 hrs 48 mins
+
+TypeScript   40 hrs 39 mins  ██████████████▒░░░░░░░░░░   56.72 %
+Python       10 hrs 2 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Astro        5 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Markdown     4 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+JavaScript   3 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+JSON         1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+```
+
+<!--END_SECTION:waka-->
+
+
 ### Courses
 
 - Algebra I
@@ -59,53 +122,3 @@
 <a href="https://www.twitter.com/cmglezpdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![cmglezpdev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cmglezpdev&theme=github-compact)](https://github.com/cmglezpdev/github-readme-activity-graph)
-
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![cmglezpdev's github stats](https://github-readme-stats.vercel.app/api?username=cmglezpdev&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmglezpdev&theme=radical&layout=compact) |
-
-
-
-## Github Profile Trophy
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
-
-<!-- <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/cmglezpdev/count.svg">  
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
-
-<!-- 
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@cmglezpdev.github.readme)
-</br> -->
-
-![Metrics](/github-metrics.svg)
-
-<!--START_SECTION:waka-->
-
-```text
-From: 31 December 2022 - To: 30 January 2023
-
-Total Time: 70 hrs 48 mins
-
-TypeScript   40 hrs 39 mins  ██████████████▒░░░░░░░░░░   56.72 %
-Python       10 hrs 2 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Astro        5 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Markdown     4 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-JavaScript   3 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-JSON         1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-```
-
-<!--END_SECTION:waka-->
