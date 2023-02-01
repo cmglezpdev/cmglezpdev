@@ -1,8 +1,11 @@
+![welcome](assets/welcome.svg)
+
+![hedaer](assets/header.png)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Carlos+Manuel;Computer+Science+Student&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 
 <hr />
-
-I started programming in 2016 with C++ in competitive programming. Four years later I started learning frontend and backend web development.
 
 * 🌍  I'm based in Cuba
 * ✉️  You can contact me at [cmglezpdev@gmail.com](mailto:cmglezpdev@gmail.com)
@@ -57,7 +60,36 @@ I started programming in 2016 with C++ in competitive programming. Four years la
 </p>
 
 
-<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/cmglezpdev/langs)](https://githubtrends.io) -->
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![cmglezpdev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cmglezpdev&theme=github-compact)](https://github.com/cmglezpdev/github-readme-activity-graph)
+
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![cmglezpdev's github stats](https://github-readme-stats.vercel.app/api?username=cmglezpdev&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmglezpdev&theme=radical&layout=compact) |
+
+
+
+## Github Profile Trophy
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
+
+<!-- <img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/cmglezpdev/count.svg">  
+
+counting of visitors to this page in this section started from May 8, 2022
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
+
+<!-- 
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@cmglezpdev.github.readme)
+</br> -->
 
 
 <!--START_SECTION:waka-->
