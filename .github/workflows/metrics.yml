@@ -28,12 +28,12 @@ jobs:
           plugin_topics_mode: icons
           
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, languages, languages-graph
           plugin_wakatime_days: 180
           
           plugin_leetcode: yes
-          plugin_leetcode_user: cmglezpdev
+#           plugin_leetcode_user: cmglezpdev
           plugin_leetcode_sections: solved, skills, recent
           
           plugin_achievements: yes
