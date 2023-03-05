@@ -87,16 +87,16 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 January 2023 - To: 02 March 2023
+From: 01 February 2023 - To: 03 March 2023
 
-Total Time: 63 hrs 12 mins
+Total Time: 53 hrs 34 mins
 
-C#             12 hrs 30 mins  █████░░░░░░░░░░░░░░░░░░░░   19.36 %
-TypeScript     12 hrs 3 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-ASP.NET        9 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Binary         9 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-JavaScript     6 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Markdown       6 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+C#             12 hrs 30 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+TypeScript     12 hrs 1 min    █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
+ASP.NET        9 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+Binary         9 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Markdown       5 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+CSS            2 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
