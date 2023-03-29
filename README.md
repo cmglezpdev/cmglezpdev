@@ -87,16 +87,13 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2023 - To: 26 March 2023
+From: 25 February 2023 - To: 27 March 2023
 
-Total Time: 5 hrs 42 mins
+Total Time: 1 hr 10 mins
 
-Binary       1 hr 37 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
-C#           1 hr 28 mins    ██████░░░░░░░░░░░░░░░░░░░   24.55 %
-ASP.NET      1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
-TypeScript   41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
-Prolog       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+TypeScript   41 mins         ████████████▒░░░░░░░░░░░░   49.34 %
+Prolog       22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+Other        12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
 ```
 
 <!--END_SECTION:waka-->
