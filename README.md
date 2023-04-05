@@ -87,16 +87,16 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 March 2023 - To: 02 April 2023
+From: 04 March 2023 - To: 03 April 2023
 
-Total Time: 1 hr 31 mins
+Total Time: 1 hr 48 mins
 
-TypeScript   41 mins         ███████████▒░░░░░░░░░░░░░   44.90 %
-Prolog       22 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-C            20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
-JSON         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Perl         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   41 mins         █████████▒░░░░░░░░░░░░░░░   37.97 %
+C            37 mins         ████████▓░░░░░░░░░░░░░░░░   34.56 %
+Prolog       22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.29 %
+JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Perl         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
