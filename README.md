@@ -87,16 +87,16 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2023 - To: 27 April 2023
+From: 29 March 2023 - To: 28 April 2023
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 42 mins
 
-C            54 mins         ███████████████░░░░░░░░░░   60.61 %
-JavaScript   18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-HTML         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-CSS          8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C            54 mins         █████████████▒░░░░░░░░░░░   53.41 %
+JavaScript   18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+Python       12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+HTML         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+CSS          8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
