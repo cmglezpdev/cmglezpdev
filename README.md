@@ -87,7 +87,7 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2023 - To: 03 May 2023
+From: 04 April 2023 - To: 04 May 2023
 
 Total Time: 33 hrs 12 mins
 
@@ -96,7 +96,6 @@ Markdown     2 hrs 49 mins   ██░░░░░░░░░░░░░░░
 CSS          1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 JavaScript   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 Bash         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
