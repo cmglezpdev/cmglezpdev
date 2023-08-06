@@ -87,15 +87,15 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2023 - To: 03 August 2023
+From: 05 July 2023 - To: 04 August 2023
 
-Total Time: 108 hrs 30 mins
+Total Time: 112 hrs 32 mins
 
-TypeScript       81 hrs 17 mins  ██████████████████▓░░░░░░   74.65 %
-JavaScript       8 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-CSS              8 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-JSON             3 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Markdown         3 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+TypeScript       84 hrs 27 mins  ██████████████████▓░░░░░░   74.79 %
+JavaScript       9 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+CSS              8 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+JSON             3 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Markdown         2 hrs 40 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
