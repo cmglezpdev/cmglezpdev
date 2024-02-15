@@ -21,14 +21,19 @@
 
   <div>
     <h4>Languages </h4>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,c"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,c,dart"/>
   </div>
   
   <div>
     <h4>Frontend </h4>
     <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,astro,html,css"/>
   </div>
-  
+
+  <div>
+    <h4>Mobile </h4>
+    <img src="https://skillicons.dev/icons?i=flutter"/>
+  </div>
+    
   <div>
     <h4>Backend </h4>
     <img src="https://skillicons.dev/icons?i=nodejs,dotnet,deno,nestjs,supabase,firebase"/>
@@ -51,7 +56,7 @@
 
   <div>
     <h4>Comming Soon </h4>
-    <img src="https://skillicons.dev/icons?i=dart,flutter,rust,go,threejs"/>
+    <img src="https://skillicons.dev/icons?i=rust,go,threejs"/>
   </div>
   
 
