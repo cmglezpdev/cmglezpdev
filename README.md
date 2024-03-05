@@ -99,15 +99,15 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2024 - To: 02 March 2024
+From: 02 February 2024 - To: 03 March 2024
 
-Total Time: 110 hrs 37 mins
+Total Time: 106 hrs 21 mins
 
-TypeScript   48 hrs 58 mins  ███████████░░░░░░░░░░░░░░   43.68 %
-Python       24 hrs 22 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-Dart         22 hrs 57 mins  █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-SQL          6 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-JSON         2 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+TypeScript   49 hrs 26 mins  ███████████▒░░░░░░░░░░░░░   45.84 %
+Python       24 hrs 22 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
+Dart         18 hrs 32 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+SQL          6 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+JSON         2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
