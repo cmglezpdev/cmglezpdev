@@ -13,7 +13,6 @@
 * ⚡  I watch many series 😜
 
 ### Skills
-
   <div>
     <h4>DevOps </h4>
     <img src="https://skillicons.dev/icons?i=docker,githubactions"/>
@@ -55,8 +54,8 @@
   </div>
 
   <div>
-    <h4>Comming Soon </h4>
-    <img src="https://skillicons.dev/icons?i=rust,go,threejs"/>
+    <h4>Coming Soon </h4>
+    <img src="https://skillicons.dev/icons?i=rust,go,threejs,solidity"/>
   </div>
   
 
