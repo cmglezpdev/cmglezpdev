@@ -98,15 +98,15 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 06 May 2024
+From: 07 April 2024 - To: 07 May 2024
 
-Total Time: 106 hrs 6 mins
+Total Time: 103 hrs 59 mins
 
-Python       46 hrs 31 mins  ███████████░░░░░░░░░░░░░░   43.70 %
-TypeScript   39 hrs 27 mins  █████████▒░░░░░░░░░░░░░░░   37.05 %
-SQL          9 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-TeX          5 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-JSON         1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Python       44 hrs 23 mins  ██████████▓░░░░░░░░░░░░░░   42.53 %
+TypeScript   39 hrs 46 mins  █████████▓░░░░░░░░░░░░░░░   38.10 %
+SQL          9 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+TeX          5 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+JSON         1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
