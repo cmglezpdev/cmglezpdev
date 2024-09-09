@@ -12,6 +12,7 @@
 * 🖥️  See my portfolio at [MyPortfolio](http://cmglezpdev.vercel.app)
 * ⚡  I watch many series 😜
 
+<!--
 ### Skills
   <div>
     <h4>DevOps </h4>
@@ -20,7 +21,7 @@
 
   <div>
     <h4>Languages </h4>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,c,dart"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,c"/>
   </div>
   
   <div>
@@ -55,9 +56,9 @@
 
   <div>
     <h4>Coming Soon </h4>
-    <img src="https://skillicons.dev/icons?i=rust,go,threejs,solidity"/>
+    <img src="https://skillicons.dev/icons?i=rust,go"/>
   </div>
-  
+-->
 
 <!--
 <p align="center"> 
