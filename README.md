@@ -99,15 +99,15 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2024 - To: 20 September 2024
+From: 22 August 2024 - To: 21 September 2024
 
-Total Time: 145 hrs 37 mins
+Total Time: 140 hrs 53 mins
 
-TypeScript   125 hrs 51 mins █████████████████████▒░░░   85.85 %
-Bash         4 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Python       3 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Markdown     3 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-YAML         3 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+TypeScript   121 hrs         █████████████████████▒░░░   85.31 %
+Bash         4 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Python       3 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Markdown     3 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+YAML         3 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
