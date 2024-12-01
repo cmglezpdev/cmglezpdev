@@ -99,15 +99,15 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2024 - To: 28 November 2024
+From: 31 October 2024 - To: 30 November 2024
 
-Total Time: 79 hrs 47 mins
+Total Time: 83 hrs 9 mins
 
-Other                      142 hrs 56 mins ████████████████░░░░░░░░░   64.18 %
-TypeScript                 43 hrs 27 mins  █████░░░░░░░░░░░░░░░░░░░░   19.51 %
-Java                       18 hrs 2 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-JavaScript                 4 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-HTTP Request               3 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other                      154 hrs 31 mins ████████████████▒░░░░░░░░   65.01 %
+TypeScript                 46 hrs 39 mins  █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+Java                       18 hrs 2 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+JavaScript                 3 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+HTTP Request               3 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
