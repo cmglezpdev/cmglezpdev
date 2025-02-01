@@ -99,15 +99,15 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2024 - To: 29 January 2025
+From: 01 January 2025 - To: 31 January 2025
 
-Total Time: 138 hrs 19 mins
+Total Time: 136 hrs 4 mins
 
-TypeScript        87 hrs 51 mins  ████████████▒░░░░░░░░░░░░   49.86 %
-Other             37 hrs 52 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-Java              32 hrs 26 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-SQL               10 hrs 37 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-YAML              1 hr 17 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TypeScript        86 hrs 52 mins  ████████████▓░░░░░░░░░░░░   50.03 %
+Other             37 hrs 33 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
+Java              31 hrs 12 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
+SQL               10 hrs 33 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+YAML              1 hr 17 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
