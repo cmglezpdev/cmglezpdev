@@ -27,21 +27,11 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_ignored: Jupiter Notebook
 
-          # Plugin for my recent activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-
           # Wakatime plugin
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, languages, languages-graph
           plugin_wakatime_days: 180
-
-          # Recent Starts in new repositories
-          plugin_stars: yes
-          plugin_stars_limit: 3
           
           plugin_leetcode: yes
           plugin_leetcode_user: cmglezpdev
