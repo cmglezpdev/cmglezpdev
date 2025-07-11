@@ -99,15 +99,15 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2025 - To: 08 July 2025
+From: 09 June 2025 - To: 09 July 2025
 
-Total Time: 113 hrs 44 mins
+Total Time: 118 hrs 12 mins
 
-TypeScript    101 hrs 23 mins ██████████████████████▒░░   88.99 %
-Markdown      5 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-YAML          1 hr 27 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Bash          1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-JSON          1 hr 15 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript    105 hrs 32 mins ██████████████████████▒░░   89.13 %
+Markdown      5 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Bash          1 hr 32 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+YAML          1 hr 27 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JSON          1 hr 22 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
