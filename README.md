@@ -99,15 +99,15 @@ counting of visitors to this page in this section started from June 12, 2022
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 06 November 2025
+From: 08 October 2025 - To: 07 November 2025
 
-Total Time: 127 hrs 25 mins
+Total Time: 123 hrs 30 mins
 
-TypeScript                         94 hrs 21 mins  ██████████████████▒░░░░░░   73.25 %
-Python                             12 hrs 4 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-Markdown                           5 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-C#                                 4 hrs 28 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-JavaScript                         3 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+TypeScript                         90 hrs 49 mins  ██████████████████▒░░░░░░   72.74 %
+Python                             14 hrs 7 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Markdown                           5 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+C#                                 3 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JavaScript                         3 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
