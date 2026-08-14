@@ -8,9 +8,9 @@ I write about System Design, distributed architecture, and practical AI engineer
 
 - 🗣️ **nativo** — A language-learning app I'm currently building: LingQ-style assisted reading (listen, read aloud, tap a word for meanings, track how well you know it) plus AI-powered writing feedback. Private for now — building it to replace my own subscriptions first.
 - 📝 **[veta](https://github.com/cmglezpdev/veta)** — A CLI that turns YouTube videos into clean, structured, AI-ready notes.
+- 🎙️ **[openwhispr-proxy](https://github.com/cmglezpdev/openwhispr-proxy)** — A local OpenAI-compatible proxy server between OpenWhispr and Vercel AI Gateway — forwards transcription and chat requests, tracks usage and cost.
 - 🔖 **[linkseek](https://linkseek.app)** — A bookmark manager to save and find your links fast.
 - ⚖️ **[link-shortener-scalability-lab](https://github.com/cmglezpdev/link-shortener-scalability-lab)** — A URL shortener built to be broken: a hands-on System Design lab that scales bottleneck by bottleneck — measure with k6, diagnose with Prometheus/Grafana, fix only what the numbers demand.
-- 🎙️ **[openwhispr-proxy](https://github.com/cmglezpdev/openwhispr-proxy)** — A local OpenAI-compatible proxy server between OpenWhispr and Vercel AI Gateway — forwards transcription and chat requests, tracks usage and cost.
 
 ## Open Source
 
