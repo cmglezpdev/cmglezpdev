@@ -1,106 +1,30 @@
-![welcome](assets/welcome.svg)
+# Hi, I'm Carlos Manuel 👋
 
-![hedaer](assets/header.png)
+Software Engineer with 3+ years of experience building multi-tenant SaaS platforms, payment systems, and AI-powered applications. Currently Lead Software Engineer at Dara'S Services, working mostly on the backend with TypeScript, Node.js (NestJS), and PostgreSQL.
 
+I write about System Design, distributed architecture, and practical AI engineering — real-world lessons from building scalable systems.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Carlos+Manuel;Computer+Science+Student&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
+## Projects
 
-<hr />
+- 🗣️ **nativo** — A language-learning app I'm currently building: LingQ-style assisted reading (listen, read aloud, tap a word for meanings, track how well you know it) plus AI-powered writing feedback. Private for now — building it to replace my own subscriptions first.
+- 📝 **[veta](https://github.com/cmglezpdev/veta)** — A CLI that turns YouTube videos into clean, structured, AI-ready notes.
+- 🔖 **[linkseek](https://linkseek.app)** — A bookmark manager to save and find your links fast.
+- ⚖️ **[link-shortener-scalability-lab](https://github.com/cmglezpdev/link-shortener-scalability-lab)** — A URL shortener built to be broken: a hands-on System Design lab that scales bottleneck by bottleneck — measure with k6, diagnose with Prometheus/Grafana, fix only what the numbers demand.
+- 🎙️ **[openwhispr-proxy](https://github.com/cmglezpdev/openwhispr-proxy)** — A local OpenAI-compatible proxy server between OpenWhispr and Vercel AI Gateway — forwards transcription and chat requests, tracks usage and cost.
 
-* 🌍  I'm based in Cuba
-* ✉️  You can contact me at [cmglezpdev@gmail.com](mailto:cmglezpdev@gmail.com)
-* 🖥️  See my portfolio at [MyPortfolio](http://cmglezpdev.vercel.app)
-* ⚡  I watch many series 😜
+## Open Source
 
-<!--
-### Skills
-  <div>
-    <h4>DevOps </h4>
-    <img src="https://skillicons.dev/icons?i=docker,githubactions"/>
-  </div>
+Contributions to projects I use daily:
 
-  <div>
-    <h4>Languages </h4>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,c"/>
-  </div>
-  
-  <div>
-    <h4>Frontend </h4>
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,astro,html,css"/>
-  </div>
+- **[openwhispr](https://github.com/OpenWhispr/openwhispr)** — [#1357](https://github.com/OpenWhispr/openwhispr/pull/1357): add Vercel AI Gateway as a reasoning provider (open)
+- **[gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)** — [#2464](https://github.com/Gentleman-Programming/gentle-ai/pull/2464): preserve TUI cursor position when navigating back (open)
+- **[supabase](https://github.com/supabase/supabase)** — [#35600](https://github.com/supabase/supabase/pull/35600): set `security definer` in the `queue_embeddings` function (merged)
+- **[Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots)** — [#79](https://github.com/Gentleman-Programming/Gentleman.Dots/pull/79), [#80](https://github.com/Gentleman-Programming/Gentleman.Dots/pull/80): replace deprecated Nushell commands (merged)
+- **[miduconf-website](https://github.com/midudev/miduconf-website)** — [#90](https://github.com/midudev/miduconf-website/pull/90): add NestJS flavour to the conference site (merged)
 
-  <div>
-    <h4>Mobile </h4>
-    <img src="https://skillicons.dev/icons?i=flutter"/>
-  </div>
-    
-  <div>
-    <h4>Backend </h4>
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,deno,nestjs,supabase,firebase"/>
-  </div>
+## Find me
 
-  <div>
-    <h4>Database </h4>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-  </div>
-  
-  <div>
-    <h4>Extras </h4>
-    <img src="https://skillicons.dev/icons?i=git,github,rabbitmq,graphql,sass,styledcomponents,tailwind,materialui"/>
-  </div>
-
-  <div>
-    <h4>Testing </h4>
-    <img src="https://skillicons.dev/icons?i=jest,vitest"/>
-  </div>
-
-  <div>
-    <h4>Coming Soon </h4>
-    <img src="https://skillicons.dev/icons?i=rust,go"/>
-  </div>
--->
-
-<!--
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/cmglezpdev/count.svg">  
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
-
-<!-- 
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@cmglezpdev.github.readme)
-</br> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Metrics](/github-metrics.svg)
-
-### Socials
-
-<p align="left">
-<a href="https://discord.com/users/cmglezpdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/cmglezpdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/cmglezpdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+- 💼 LinkedIn: [cmglezpdev](https://www.linkedin.com/in/cmglezpdev)
+- 🐦 X / Twitter: [@cmglezpdev](https://twitter.com/cmglezpdev)
+- ✉️ [cmglezpdev@gmail.com](mailto:cmglezpdev@gmail.com)
 
