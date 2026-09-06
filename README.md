@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Manuel 👋
 
-Software Engineer with 3+ years of experience building multi-tenant SaaS platforms, payment systems, and AI-powered applications. Currently Lead Software Engineer at Dara'S Services, working mostly on the backend with TypeScript, Node.js (NestJS), and PostgreSQL.
+Software Engineer with 4 years of experience building multi-tenant SaaS platforms, payment systems, and AI-powered applications. Currently Lead Software Engineer at Dara'S Services, working mostly on the backend with TypeScript, Node.js (NestJS), and PostgreSQL.
 
 I write about System Design, distributed architecture, and practical AI engineering — real-world lessons from building scalable systems.
 
