@@ -6,7 +6,7 @@ I write about System Design, distributed architecture, and practical AI engineer
 
 ## Projects
 
-- 🗣️ **nativo** — A language-learning app I'm currently building: LingQ-style assisted reading (listen, read aloud, tap a word for meanings, track how well you know it) plus AI-powered writing feedback. Private for now — building it to replace my own subscriptions first.
+- 🗣️ **[nativo](https://soundlikenative.com)** — A language-learning app I'm currently building: LingQ-style assisted reading (listen, read aloud, tap a word for meanings, track how well you know it) plus AI-powered writing feedback. Private for now — building it to replace my own subscriptions first.
 - 📝 **[veta](https://github.com/cmglezpdev/veta)** — A CLI that turns YouTube videos into clean, structured, AI-ready notes.
 - 🎙️ **[openwhispr-proxy](https://github.com/cmglezpdev/openwhispr-proxy)** — A local OpenAI-compatible proxy server between OpenWhispr and Vercel AI Gateway — forwards transcription and chat requests, tracks usage and cost.
 - 🔖 **[linkseek](https://linkseek.app)** — A bookmark manager to save and find your links fast.
