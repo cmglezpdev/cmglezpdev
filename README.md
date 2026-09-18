@@ -11,6 +11,7 @@ I write about System Design, distributed architecture, and practical AI engineer
 - 🎙️ **[openwhispr-proxy](https://github.com/cmglezpdev/openwhispr-proxy)** — A local OpenAI-compatible proxy server between OpenWhispr and Vercel AI Gateway — forwards transcription and chat requests, tracks usage and cost.
 - 🔖 **[linkseek](https://linkseek.app)** — A bookmark manager to save and find your links fast.
 - ⚖️ **[link-shortener-scalability-lab](https://github.com/cmglezpdev/link-shortener-scalability-lab)** — A URL shortener built to be broken: a hands-on System Design lab that scales bottleneck by bottleneck — measure with k6, diagnose with Prometheus/Grafana, fix only what the numbers demand.
+- 🛒 **[commerce-lab](https://github.com/cmglezpdev/commerce-lab)** — 🚧 In progress — A complete commerce application built the deliberate way in C#: a pure DDD domain model (catalog, cart, pricing) that grows step by step into a full app — application layer, database, API, and Terraform deployment on AWS. Every architecture decision recorded as an ADR.
 
 ## Open Source
 
