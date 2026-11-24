@@ -18,6 +18,8 @@ I write about System Design, distributed architecture, and practical AI engineer
 Contributions to projects I use daily:
 
 - **[openwhispr](https://github.com/OpenWhispr/openwhispr)** — [#1357](https://github.com/OpenWhispr/openwhispr/pull/1357): add Vercel AI Gateway as a reasoning provider (open)
+- **[openwhispr](https://github.com/OpenWhispr/openwhispr)** — [#3413](https://github.com/OpenWhispr/openwhispr/pull/3413): add Vercel AI Gateway as a speech-to-text provider (open)
+- **[convex](https://github.com/OpenWhispr/convex-backend)** — [#667](https://github.com/convex/convex-backend/pull/667): bug in environment variables (open)
 - **[gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)** — [#2464](https://github.com/Gentleman-Programming/gentle-ai/pull/2464): preserve TUI cursor position when navigating back (open)
 - **[supabase](https://github.com/supabase/supabase)** — [#35600](https://github.com/supabase/supabase/pull/35600): set `security definer` in the `queue_embeddings` function (merged)
 - **[Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots)** — [#79](https://github.com/Gentleman-Programming/Gentleman.Dots/pull/79), [#80](https://github.com/Gentleman-Programming/Gentleman.Dots/pull/80): replace deprecated Nushell commands (merged)
