@@ -19,8 +19,8 @@ I write about system design, software architecture, and AI engineering, with my 
 - **[linkseek](https://linkseek.app)** is a bookmark manager for saving links and finding them fast. It has an MCP server so your AI agent can use it too.
 - **[veta](https://github.com/cmglezpdev/veta)** is a CLI that turns YouTube videos into clean, structured notes you can feed to an AI.
 - **[openwhispr-proxy](https://github.com/cmglezpdev/openwhispr-proxy)** is a local OpenAI-compatible proxy between OpenWhispr and Vercel AI Gateway. It forwards transcription and chat requests and tracks usage and cost.
-- **[openyap](https://github.com/cmglezpdev/openyap)** is an open source dictation app for macOS that I'm building with Electron and React. You press a hotkey and speak, and it pastes the cleaned-up text at your cursor. It's early, so dictation doesn't work yet.
-- **[eta-harness](https://github.com/cmglezpdev/eta-harness)** is a local coding-agent harness I'm building to learn how agents work inside. It has a Hono server running the Vercel AI SDK's agent loop and a React web UI.
+- **[openyap](https://github.com/cmglezpdev/openyap)** (in progress) is an open source dictation app for macOS that I'm building with Electron and React. You press a hotkey and speak, and it pastes the cleaned-up text at your cursor. It's in early development and isn't usable yet.
+- **[eta-harness](https://github.com/cmglezpdev/eta-harness)** (in progress) is a local coding-agent harness I'm building to learn how agents work inside. It has a Hono server running the Vercel AI SDK's agent loop and a React web UI. It's in early development and still rough.
 - **[QR Generator](https://qr-generator.linkseek.app/)** is a free QR code generator with configurable styles. No account needed.
 - **[terraform-aws-lab](https://github.com/cmglezpdev/terraform-aws-lab)** is where I practice AWS and Terraform, with deployment tests, architecture diagrams, and notes on why I picked each service.
 
